@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTT.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLThucTap.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSinhVien.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTT.csproj.GenerateResource.cache
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+C:\Users\HP\Documents\PhanMemQLTT\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
